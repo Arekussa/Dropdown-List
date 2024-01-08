@@ -11,7 +11,7 @@
 
  ╰┈➤ This tool is a dropdown list with animation ₍ᐢ. .ᐢ₎ ~♡.
  
- ![Dropdown List](https://i.imgur.com/i4l9xYu.gif)
+  ![Dropdown List](https://i.imgur.com/tASGRJO.gif)
 >
 >
 >Arekussa /ᐠ - ˕ -マ
