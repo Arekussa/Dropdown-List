@@ -11,7 +11,7 @@
 
  ╰┈➤ This tool is a dropdown list with animation ₍ᐢ. .ᐢ₎ ~♡.
  
-  ![Dropdown list](https://github.com/Arekussa/tool-02-dropdown-list/blob/main/images/Dropdown-Menu.gif)
+  ![Dropdown list](https://github.com/Arekussa/tool-02-dropdown-list/blob/main/images/dropdown-list.gif)
 >
 >
 >Arekussa /ᐠ - ˕ -マ
